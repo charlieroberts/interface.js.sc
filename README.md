@@ -6,6 +6,7 @@ those found in mobile devices. To use this class you need the [Interface.Server 
 . Interface.Server connects multiple devices to SC and allows you to livecode interfaces spanning across devices.
 
 ##Steps to run
+0. Place this repo directory into your SCClassLibrary directory and recompile the SuperCollider class library.
 1. Launch Interface.Server
 2. Run Interface.init in SC
 3. Open a web browser(s) on any device(s) and enter the following url:http://your.computer.address:8080 substituting your computer's ip address.
